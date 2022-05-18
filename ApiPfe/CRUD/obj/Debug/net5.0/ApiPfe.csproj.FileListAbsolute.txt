@@ -1,0 +1,6 @@
+E:\travaille\CRUD\CRUD\obj\Debug\net5.0\ApiPfe.GeneratedMSBuildEditorConfig.editorconfig
+E:\travaille\CRUD\CRUD\obj\Debug\net5.0\ApiPfe.AssemblyInfoInputs.cache
+E:\travaille\CRUD\CRUD\obj\Debug\net5.0\ApiPfe.AssemblyInfo.cs
+E:\travaille\CRUD\CRUD\obj\Debug\net5.0\ApiPfe.csproj.CoreCompileInputs.cache
+E:\travaille\CRUD\CRUD\obj\Debug\net5.0\ApiPfe.MvcApplicationPartsAssemblyInfo.cs
+E:\travaille\CRUD\CRUD\obj\Debug\net5.0\ApiPfe.MvcApplicationPartsAssemblyInfo.cache

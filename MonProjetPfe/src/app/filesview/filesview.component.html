@@ -1,0 +1,32 @@
+<app-homeresponsable></app-homeresponsable>
+
+
+<div class="table-wrapper-scroll-y my-custom-scrollbar">
+
+    <table class="table table-bordered  mb-0 table-scrollable">
+        <thead>
+            <tr>
+                <th>File Name</th>
+                <th>Description</th>
+                <th>File Type</th>
+                <th>File Extension</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let file of files">
+                <td>{{file.fileName}}</td>
+                <td>{{file.description}}</td>
+                <td>{{file.contentType}}</td>
+                <td>{{file.fileFormat}}</td>
+                <td>
+                    <input type="button" class="btn btn-success" (click)="downloadFile(file.id, file.contentType)"
+                        value="Download" />
+                    <br> <br>
+
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
